@@ -87,11 +87,10 @@ The application has two primary sections, accessible through tabs:
 
 #### **Main Dashboard - Network Sniffer**
 Start, stop, and save logs of network activity:
-![Sniffer Tab](https://user-images.githubusercontent.com/109947257/229362384-b3040001-a8be-4435-a528-b5290c514fa9.png)
+![Sniffer Tab]![Screenshot 2024-11-19 002107](https://github.com/user-attachments/assets/7653d213-95fd-4c58-8084-00af77468a9b)
 
-#### **Saved Passwords Tab**
-View saved WiFi network credentials:
-![Saved Passwords Tab](https://user-images.githubusercontent.com/109947257/229361916-0d321f2d-88de-4320-be89-ae8a8ddc6f39.png)
+
+
 
 ---
 
