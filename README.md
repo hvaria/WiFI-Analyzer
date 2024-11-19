@@ -44,16 +44,11 @@ This tool requires either **WinPcap** or **Npcap** drivers to capture network tr
    cd WiFi-Analyzer
    ```
 
-2. **Install Required Python Libraries**
-   Use the following command to install the dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
-3. **Install Drivers**
+2. **Install Drivers**
    - Install [WinPcap](https://www.winpcap.org/install/default.htm) or [Npcap](https://nmap.org/npcap/).
 
-4. **Run the Application**
+3. **Run the Application**
    Start the tool by executing:
    ```bash
    python wifi_analyzer.py
